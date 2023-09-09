@@ -1,0 +1,27 @@
+const Routes = {
+  Splash: 'Splash',
+  SplashOnboarding: 'SplashOnboarding',
+  Register: 'Register',
+  RegisterEmail: 'RegisterEmail',
+  RegisterVerification: 'RegisterVerification',
+  RegisterFromMobile: 'RegisterFromMobile',
+  Login: 'Login',
+  LoginEmail: 'LoginEmail',
+  LoginVerification: 'LoginVerification',
+  ShowsDetails: 'ShowsDetails',
+  VideoDetails: 'VideoDetails',
+  Home: 'Home',
+  Tabs: 'Tabs',
+  Story: 'Story',
+  VideoSubmit: 'VideoSubmit',
+  CreatorDetails: 'CreatorDetails',
+  ForYou: 'For You',
+  CreatorHub: 'Creator Hub',
+  Notifications: 'Notifications',
+  Profile: 'Profile',
+  GigsDetails: 'GigsDetails',
+  CategoryEpisodeDetails: 'CategoryEpisodeDetails',
+  NotificationDetails: 'NotificationDetails',
+};
+
+export default Routes;
